@@ -14,4 +14,11 @@
         <shortDescription>Server label</shortDescription>
         <value>www.google.com</value>
     </labels>
+    <labels>
+        <fullName>X18_mar_new_label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>18-mar-new label</shortDescription>
+        <value>qwertyui</value>
+    </labels>
 </CustomLabels>
